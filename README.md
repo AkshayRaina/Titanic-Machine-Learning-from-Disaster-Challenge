@@ -1,7 +1,7 @@
 # Titanic-Machine-Learning-from-Disaster-Challenge
 Titanic - Machine Learning from Disaster Challenge
 
-This repository contains the submission .csv files and notebooks of 1) walkthorugh of Titanic - Machine Learning from Disaster Challenge on Kaggle and 2) my contribution in another Kaggle notebook.
+This repository contains the submission .csv files and notebooks of 1) walkthorugh of Titanic - Machine Learning from Disaster Challenge on Kaggle and 2) my contribution in another Kaggle notebook. Accuracy scores using three machine learning algorithms were observed.
 
 View the attached Kaggle notebooks here or run them on Kaggle.
 
